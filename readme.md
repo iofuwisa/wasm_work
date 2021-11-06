@@ -2,13 +2,13 @@
 
 Generate wasm to ```pkg```
 ```
-$ wasm-pack build
+wasm-pack build
 ```
 
 ## Serve
 
 Start http server
 ```
-$ cd site
-$ npm run serve
+cd site
+npm run serve
 ```
